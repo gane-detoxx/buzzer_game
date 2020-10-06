@@ -8,7 +8,8 @@ else if player 2 wins led2 lights up.
 
 
 This is game which could be executed in raspberry pi/ arduino.  
-The connections should be given accordingly to the code.  
+The connections should be given accordingly to the code. 
+>led1- gpio22
 >led_center- gpio-17  
 >led2- gpio27  
 >button1- gpio2  
